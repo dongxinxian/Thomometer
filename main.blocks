@@ -1,4 +1,1 @@
-<xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="pxt-on-start"></block>
-  <block type="device_forever"></block>
-</xml>
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_button_event" id="S9QO^j,*BEpZyeX|Fjq@" x="0" y="0"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_number" id="A_y.MXD2I[UUB@,r$Rd;"><value name="number"><shadow type="math_number" id="[a^s1utk4KXvgoQ#kIu{"><field name="NUM">0</field></shadow><block type="device_random" id="5}N]IpO)l*LO_#`Jy8fa"><value name="min"><shadow type="math_number" id="e#t7~4_!9e84,kp3zt*t"><field name="NUM">1</field></shadow></value><value name="limit"><shadow type="math_number" id="x@lIr^zkv;|hgxU4^k2!"><field name="NUM">6</field></shadow></value></block></value></block></statement></block></xml>
